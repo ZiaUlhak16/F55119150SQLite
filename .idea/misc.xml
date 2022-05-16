@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1075" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/drawable/ic_launcher_background.xml" value="0.123" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_content.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/layout/activity_register.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/layout/activiy_main.xml" value="0.11197916666666667" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/layout/fragment_account.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/layout/fragment_dashboard.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/menu/activity_content.xml" value="0.2359375" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/menu/activity_register.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/menu/activiy_main.xml" value="0.1" />
+        <entry key="..\:/Users/acer/AndroidStudioProjects/SQLite/app/src/main/res/menu/navigation.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
